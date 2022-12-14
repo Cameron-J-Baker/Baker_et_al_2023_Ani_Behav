@@ -4,7 +4,8 @@ data has been processed so that each individual has been assigned a single ident
 outside of the period they were implanted within an inidividual and has been reformated for analysis using the 'ReadInputData' function for the VTrack R package. 
 The unprocessedraw data supporting this study can be sourced from the Acoustic Animal Tracking Database (https://animaltracking.aodn.org.au) of the Integrated 
 Marine Observing System (IMOS, www.imos.org.au) - IMOS is a national collaborative research infrastructure supported by Australian Government. The database is 
-a centralised acoustic telemetry data repository maintained by the IMOS Animal Tracking Facility and the Australian Ocean Data Network (AODN, https://portal.aodn.org.au/). 
+a centralised acoustic telemetry data repository maintained by the IMOS Animal Tracking Facility and the Australian Ocean Data Network (AODN, https://portal.aodn.org.au/). Due to data size limits on GitHub it is not possible to host this file online. If you require access this file please contact Cameron
+Baker. 
 
 Baker_et_al_acoustic_hydrophone_location.csv - The location (latitude and longitiude) of each of the acoustic hydrophone stations that have been used as part of the 
 Wenlock and Ducie river acoustic telemetry array. Included with the dataset is also the distance (km) that each hydrophone station is from the mouth of Port Musgrave in 
